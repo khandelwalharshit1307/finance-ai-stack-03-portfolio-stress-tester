@@ -544,6 +544,6 @@ Cost: $0.
         "Built by **Harshit Khandelwal** | "
         "Leveraged Loans Analyst @ BNP Paribas AM | "
         "ESSEC MiM 2026 | "
-        "[LinkedIn](https://linkedin.com/in/harshitkhandelwal) · "
-        "[GitHub](https://github.com/harshitkhandelwal)"
+        "https://www.linkedin.com/in/harshit-khandelwal-6278a4193/"
+        "https://github.com/khandelwalharshit1307/finance-ai-stack-03-portfolio-stress-tester"
     )
